@@ -201,4 +201,4 @@ With regard to the other components of the TANGO toolchain, POROTO has the follo
 ## Acknowledgments
 
 POROTO has been developed with support from the following research projects:
-Please refer to [Acknowledgments.md]( https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
+Please refer to [Acknowledgments.md](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
