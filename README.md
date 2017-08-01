@@ -108,13 +108,15 @@ TestVector(1,{
 ```
 
 The demo uses a simple Makefile to invoke Poroto :
-````make
+```make
 POROTO_ROOT=../..
 FILES=vector_add.c
 include $(POROTO_ROOT)/poroto.mak
 ```
+
 The tool can be invoked using the Makefile provided in the demo
-````make
+
+```make
 make clean
 make gen
 make compile
@@ -136,7 +138,7 @@ compile and run targets.
 To specify a hardware target, one must add either in the Makefile or on the
 command line the TARGET parameter, e.g. if we want to use the alphadata FPGA
 based accelerator board :
-````bash
+```bash
 make TARGET=alphadata clean
 make TARGET=alphadata gen
 ```
@@ -201,4 +203,6 @@ With regard to the other components of the TANGO toolchain, POROTO has the follo
 ## Acknowledgments
 
 POROTO has been developed with support from the following research projects:
+
 Please refer to [Acknowledgments.md](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
+
