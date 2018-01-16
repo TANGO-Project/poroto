@@ -2,9 +2,9 @@
 
 &copy; CETIC 2018 www.cetic.be
 
-Poroto is a currently developed as a toolchain component within the framework of [TANGO](http://tango-project.eu) European Project . 
+Poroto is a currently developed as a toolchain component within the framework of [TANGO](http://tango-project.eu) European Project . see [Acknowledgments](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md).
 
-see [Acknowledgments](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
+Poroto is distributed under a [BSD 3-Clause License](https://github.com/TANGO-Project/poroto/blob/master/LICENSE).
 
 ## Description
 
@@ -204,6 +204,7 @@ POROTO is primarily intended as a design time tool supporting design space explo
 With regard to the other components of the TANGO toolchain, POROTO has the following relationships:
 
 - Placer: In a benchmarking process at design time for different implementations of different types of computations, POROTO allows to generates performance metrics (execution, power) for FPGA and CPU that can be fed to Placer in order to find an optimised mapping of the application on the hardware at hand.
+
 - Programming model: POROTO generates wrapping functions for the FPGA offloaded kernels. Those functions could be defined as tasks using the OmpSs programming model and hence allowing to take advantage of both FPGA acceleration and CPU parallel execution.
 Usage of Poroto with OmpSs is illustrated in [poroto-ompss.md](https://github.com/TANGO-Project/poroto/blob/master/ompss/poroto-ompss.md)
 
