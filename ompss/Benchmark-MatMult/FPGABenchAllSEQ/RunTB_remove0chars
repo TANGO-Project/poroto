@@ -1,0 +1,11 @@
+#!/bin/bash
+# Path to log file for real time measurement of power consumption defined in firmataC script executed by RealtimePlotter
+LOG=/home/dev/RealtimePlotter/BRT_lg/data/power.log
+#
+LOCALLOG=./test.log
+
+rm $LOG
+sudo ./test
+tr < $LOG -d '\000' > $LOCALLOG
+sed 's/\([0-9]*\.[0-9]*\ [01234]\).*/\1;/;s/\ /;/'  $LOG > $LOCALLOG
+sudo cp  $LOCALLOG ./__EnergyStats/testAllSeq$(date +%Y%m%d-%H%M%S).log.csv
