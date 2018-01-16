@@ -215,4 +215,5 @@ Usage of Poroto with OmpSs is illustrated in [poroto-ompss.md](https://github.co
 
 POROTO has been developed with support from the following research projects:
 
-Please refer to [Acknowledgments.md](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
+Please refer to [Acknowledgments.md](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md).
+
