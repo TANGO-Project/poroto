@@ -1,6 +1,8 @@
 # POROTO
 
-&copy; CETIC 2017
+&copy; CETIC 2018 www.cetic.be
+
+Poroto is a component of the European Project TANGO (http://tango-project.eu ).
 
 ## Description
 
