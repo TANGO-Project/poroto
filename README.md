@@ -2,7 +2,9 @@
 
 &copy; CETIC 2018 www.cetic.be
 
-Poroto is a component of the European Project TANGO (http://tango-project.eu ).
+Poroto is a currently developed as a toolchain component within the framework of [TANGO](http://tango-project.eu) European Project . 
+
+see [Acknowledgments](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
 
 ## Description
 
