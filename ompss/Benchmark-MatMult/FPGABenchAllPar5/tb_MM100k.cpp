@@ -26,7 +26,7 @@ extern "C" {
 int flag;
 
 const char* bitFile = "./bitfile/poroto100k.bit";
-const char* name_file= "./benchCPU_FPGA_5Par.csv";
+const char* name_file= "../__ExecStats/benchCPU_FPGA_5Par.csv";
 
 const int configPin1 = 2; //Permet de piloter le type d'output sur le terminal
 const int configPin2 = 3;

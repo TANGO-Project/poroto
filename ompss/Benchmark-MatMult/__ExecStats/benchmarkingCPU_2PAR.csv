@@ -1,0 +1,34 @@
+Test of Matrice multiplication only on CPU Parallel implementation
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps total loop= 5.351742 , temps totalcpu = 38.221463 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 1 : 
+temps total loop= 5.157605 , temps totalcpu = 39.776249 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 2 : 
+temps total loop= 5.047416 , temps totalcpu = 36.030729 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 3 : 
+temps total loop= 5.549202 , temps totalcpu = 36.909560 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 4 : 
+temps total loop= 5.223761 , temps totalcpu = 38.004612 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 5 : 
+temps total loop= 4.996539 , temps totalcpu = 37.022252 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 6 : 
+temps total loop= 5.430317 , temps totalcpu = 36.599896 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 7 : 
+temps total loop= 5.345778 , temps totalcpu = 38.693635 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 8 : 
+temps total loop= 5.173156 , temps totalcpu = 38.646203 
+
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 9 : 
+temps total loop= 4.952182 , temps totalcpu = 38.642924 
+
+temps total = 52.227698 for 10 loop 
+temps moyen = 5.222770 
+

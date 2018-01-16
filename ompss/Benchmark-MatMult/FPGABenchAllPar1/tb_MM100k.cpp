@@ -26,7 +26,7 @@ extern "C" {
 int flag;
 
 const char* bitFile = "./bitfile/poroto100k.bit";
-const char* name_file= "./benchCPU_FPGA_SEQ";
+const char* name_file= "../__ExecStats/benchCPU_FPGA_SEQ.csv";
 int main() {
     struct timeval time_full_top, time_full_end , time_loop_start, time_loop_end;
        

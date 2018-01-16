@@ -1,0 +1,132 @@
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.076880 temps FPGA = 0.000000
+temps total loop= 29.099693  
+
+temps cumul cpu = 29.076880 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.907688 ; temps cumul moy fpga = 0.000000 
+temps total = 29.099693 for 10 loop 
+ temps moyen = 2.909969 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.000676 temps FPGA = 0.000000
+temps total loop= 29.023558  
+
+temps cumul cpu = 29.000676 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.900068 ; temps cumul moy fpga = 0.000000 
+temps total = 29.023558 for 10 loop 
+ temps moyen = 2.902356 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.056257 temps FPGA = 0.000000
+temps total loop= 29.081685  
+
+temps cumul cpu = 29.056257 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.905626 ; temps cumul moy fpga = 0.000000 
+temps total = 29.081685 for 10 loop 
+ temps moyen = 2.908168 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.140456 temps FPGA = 0.000000
+temps total loop= 29.163690  
+
+temps cumul cpu = 29.140456 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.914046 ; temps cumul moy fpga = 0.000000 
+temps total = 29.163690 for 10 loop 
+ temps moyen = 2.916369 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.141964 temps FPGA = 0.000000
+temps total loop= 29.165221  
+
+temps cumul cpu = 29.141964 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.914196 ; temps cumul moy fpga = 0.000000 
+temps total = 29.165221 for 10 loop 
+ temps moyen = 2.916522 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.257228 temps FPGA = 0.000000
+temps total loop= 29.284784  
+
+temps cumul cpu = 29.257228 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.925723 ; temps cumul moy fpga = 0.000000 
+temps total = 29.284784 for 10 loop 
+ temps moyen = 2.928478 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 31.088632 temps FPGA = 0.000000
+temps total loop= 4.360421  
+
+temps cumul cpu = 31.088632 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 3.108863 ; temps cumul moy fpga = 0.000000 
+temps total = 4.360421 for 10 loop 
+ temps moyen = 0.436042 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.375552 temps FPGA = 0.000000
+temps total loop= 4.344281  
+
+temps cumul cpu = 29.375552 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.937555 ; temps cumul moy fpga = 0.000000 
+temps total = 4.344281 for 10 loop 
+ temps moyen = 0.434428 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 32.234010 temps FPGA = 0.000000
+temps total loop= 4.431440  
+
+temps cumul cpu = 32.234010 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 3.223401 ; temps cumul moy fpga = 0.000000 
+temps total = 4.431440 for 10 loop 
+ temps moyen = 0.443144 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.044598 temps FPGA = 0.000000
+temps total loop= 4.355875  
+
+temps cumul cpu = 29.044598 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.904460 ; temps cumul moy fpga = 0.000000 
+temps total = 4.355875 for 10 loop 
+ temps moyen = 0.435588 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 30.085885 temps FPGA = 0.000000
+temps total loop= 4.376906  
+
+temps cumul cpu = 30.085885 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 3.008589 ; temps cumul moy fpga = 0.000000 
+temps total = 4.376906 for 10 loop 
+ temps moyen = 0.437691 
+
+Test of Matrice multiplication on CPU & FPGA
+**** Matrix Mult (316 by 316) x (316 by 316) => (316 by 316) for the loop 0 : 
+temps CPU = 29.435490 temps FPGA = 0.000000
+temps total loop= 4.377133  
+
+temps cumul cpu = 29.435490 ; temps cumul fpga = 0.000000 
+
+temps cumul moy cpu = 2.943549 ; temps cumul moy fpga = 0.000000 
+temps total = 4.377133 for 10 loop 
+ temps moyen = 0.437713 
+
