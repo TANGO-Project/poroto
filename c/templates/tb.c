@@ -1,3 +1,5 @@
+//simple template Test Bench for Poroto FPGA designs 
+
 #include <c_wrapper.h>
 #include <poroto.h>
 #include <stdio.h>

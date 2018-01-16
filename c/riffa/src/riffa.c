@@ -1,3 +1,4 @@
+// Implements simple poroto API as a Wrapper over RIFFA functions
 #include <stdio.h>
 #include <stdlib.h>
 #include <riffa.h>

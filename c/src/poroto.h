@@ -1,3 +1,4 @@
+//defining simple poroto API over RIFFA
 #ifndef POROTO_H
 #define POROTO_H
 

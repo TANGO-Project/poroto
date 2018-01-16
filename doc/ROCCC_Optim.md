@@ -92,10 +92,17 @@ Control the fanout of unregistered values before using a register, i.e. control 
 
 Force loop unrolling, automatically applied when module is detected
 
+![FullyUnroll](images/FullyUnroll.png)
+
 ### Redundancy
 
 Enable double or triple redundancy of a module. Not supported by POROTO
 
+![Redundancy](images/Redundancy.png)
+
 ### SystolicArrayGeneration
 
 Perform data iteration as a diagonal wavefront. Not supported by POROTO
+
+
+![SystolicArrayGeneration](images/SystolicArrayGeneration.png)
