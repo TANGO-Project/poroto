@@ -166,13 +166,17 @@ changing the current code since the C wrapper keeps the same function signature
 trigger the offloaded part rather than executing within the CPU).
 
 Poroto software come with several other examples. Below a list of the ones
-available in the distribution:
-+ simple_add : A simple adder block with no data streaming
-+ vector_add : A simple vector addition
+available in the current distribution:
++ simple_add    : A simple adder block with no data streaming
++ vector_add    : A simple vector addition
 + vector_add_ip : A simple vector addition using an external IP block to perform
 the operation
-+ vector_add_float : A simple vector addition based on float elements
++ vector_add_float  : A simple vector addition based on float elements
++ const_array       : addition of predefined values to a vector
 + matrix_multiplication : A generic multiplication of integer matrices
++ matrix_mult_LU        : similar to matrix_multiplication but exploiting loop unrolling
++ nbody       : simplified nbody implementation
++ threshold   : simple image pixels threshholding
 + buffer_sliding : A 3x3 moving window over a matrix
 + vector_avg : A n-element wide moving window over a vector
 + vector_add_reduce : An reduce operation performed on a vector using an
@@ -197,6 +201,8 @@ With regard to the other components of the TANGO toolchain, POROTO has the follo
 
 - Placer: In a benchmarking process at design time for different implementations of different types of computations, POROTO allows to generates performance metrics (execution, power) for FPGA and CPU that can be fed to Placer in order to find an optimised mapping of the application on the hardware at hand.
 - Programming model: POROTO generates wrapping functions for the FPGA offloaded kernels. Those functions could be defined as tasks using the OmpSs programming model and hence allowing to take advantage of both FPGA acceleration and CPU parallel execution.
+Usage of Poroto with OmpSs is illustrated in [poroto-ompss.md](https://github.com/TANGO-Project/poroto/blob/master/ompss/poroto-ompss.md)
+
 
 
 
@@ -205,4 +211,3 @@ With regard to the other components of the TANGO toolchain, POROTO has the follo
 POROTO has been developed with support from the following research projects:
 
 Please refer to [Acknowledgments.md](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
-
