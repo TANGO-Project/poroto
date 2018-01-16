@@ -1,0 +1,1 @@
+Put in this folder the bit file of your FPGA design. This file is generated after compiling the automatically generated Poroto FPGA project and passing it through FPGA synthesis tool (Xlinx PlanAhead for Virtex 6 FPGA)   
