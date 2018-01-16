@@ -2,9 +2,9 @@
 
 &copy; CETIC 2018 www.cetic.be
 
-Poroto is a currently developed as a toolchain component within the framework of [TANGO](http://tango-project.eu) European Project . 
+Poroto is a currently developed as a toolchain component within the framework of [TANGO](http://tango-project.eu) European Project . see [Acknowledgments](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md).
 
-see [Acknowledgments](https://github.com/TANGO-Project/poroto/blob/master/Acknowledgments.md)
+Poroto is distributed under a [BSD 3-Clause License](https://github.com/TANGO-Project/poroto/blob/master/LICENSE).
 
 ## Description
 
